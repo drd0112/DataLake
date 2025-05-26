@@ -4,13 +4,13 @@ Código SQL de las tablas se caracterizan con un guion bajo desdpues se indica l
 
 Para la creación de las tablas tener en cuenta lo siguiente:
 
-a. Data Lake Nombre dado a la Base de datos.
+1. Data Lake Nombre dado a la Base de datos.
 
-b. dbo significa propietario de la base de datos (Database Owner).
+2. dbo significa propietario de la base de datos (Database Owner).
 
-c. dl significa Data Lake se indica el dl con el fin de identificar los tipos de datos que se tienen.
+3. dl significa Data Lake se indica el dl con el fin de identificar los tipos de datos que se tienen.
 
-d. _Homicidios  nombre dado a la tabla creada.
+4. _Homicidios  nombre dado a la tabla creada.
 
 Para el nombre de los archivos se tiene en cuenta los siguiente:
 
