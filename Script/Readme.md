@@ -10,7 +10,9 @@ Para la creación de las tablas tener en cuenta lo siguiente:
 
 3. dl significa Data Lake se indica el dl con el fin de identificar los tipos de datos que se tienen.
 
-4. _Homicidios  nombre dado a la tabla creada.
+4. _Departamentos, _Municipios, _Homicidios  nombre dado a la tabla creada.
+   
+5._Create tipo de script a mostrar  
 
 Para el nombre de los archivos se tiene en cuenta los siguiente:
 
