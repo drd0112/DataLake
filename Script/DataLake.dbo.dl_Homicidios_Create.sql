@@ -1,10 +1,10 @@
--- DataLake.dbo.DL_Homicidios definition
+-- DataLake.dbo.dl_Homicidios definition
 
 -- Drop table
 
--- DROP TABLE DataLake.dbo.DL_Homicidios;
+-- DROP TABLE DataLake.dbo.dl_Homicidios;
 
-CREATE TABLE DataLake.dbo.DL_Homicidios (
+CREATE TABLE DataLake.dbo.dl_Homicidios (
 	FECHA_HECHO date NULL,
 	COD_DEPTO tinyint NULL,
 	DEPARTAMENTO nvarchar(60) NULL,
