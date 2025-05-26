@@ -1,10 +1,10 @@
--- DataLake.dbo.DL_Municipios definition
+-- DataLake.dbo.dl_Municipios definition
 
 -- Drop table
 
--- DROP TABLE DataLake.dbo.DL_Municipios;
+-- DROP TABLE DataLake.dbo.dl_Municipios;
 
-CREATE TABLE DataLake.dbo.DL_Municipios (
+CREATE TABLE DataLake.dbo.dl_Municipios (
 	COD_DPTO tinyint NULL,
 	NOM_DPTO nvarchar(60) NULL,
 	COD_MPIO int NULL,
